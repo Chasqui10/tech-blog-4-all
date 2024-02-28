@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "username": "V8addict",
+    "email": "tomatoeYum@V8.aol",  
+    "password": "V8addict"
+  },
+  {
+    "id": 2,
+    "username": "snowBallz",
+    "email": "snowy@aol.com",
+    "password": "snowBallz"
+  },
+  {
+    "id": 3,
+    "username": "puppyLover",
+    "email": "PupPup@aol.com",
+    "password": "puppyLover"
+  },
+  {
+    "id": 4,
+    "username": "kittyLover",
+    "email": "Meoazing@aol.com",
+    "password": "kittyLover"
+  },
+  {
+    "id": 5,
+    "username": "CoffeeSlinger",
+    "email": "coffeeveins@aol.com",
+    "password": "CoffeeSlinger"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "title": "My First Blog Post",
+    "content": "This is the content of my first blog post.",
+    "user_id": 1,
+    "date_created": "2022-01-01T00:00:00.000Z"
+  },
+  {
+    "title": "My Second Blog Post",
+    "content": "This is the content of my second blog post.",
+    "user_id": 2,
+    "date_created": "2022-01-02T00:00:00.000Z"
+  },
+  {
+    "title": "My Third Blog Post",
+    "content": "This is the content of my third blog post.",
+    "user_id": 3,
+    "date_created": "2022-01-01T00:00:00.000Z"
+  },
+  {
+    "title": "My Fourth Blog Post",
+    "content": "This is the content of my fourth blog post.",
+    "user_id": 4,
+    "date_created": "2022-01-02T00:00:00.000Z"
+  },
+  {
+    "title": "My Fifth Blog Post",
+    "content": "This is the content of my fifth blog post.",
+    "user_id": 5,
+    "date_created": "2022-01-01T00:00:00.000Z"}
+]
